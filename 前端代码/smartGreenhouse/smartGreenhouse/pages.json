@@ -1,0 +1,363 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uni_modules/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"tabBar": {
+		"color": "#000",
+		"selectedColor":"#7DA47C",
+		"list": [{
+				"pagePath": "pages/index/index", //页面路径
+				"iconPath": "static/tabbar/homeBlack.png",
+				"selectedIconPath": "static/tabbar/homeSelected.png",
+				"text": "首页" //按钮文字,
+				
+			},
+			{
+				"pagePath": "pages/control/control",
+				"iconPath": "static/tabbar/controlBlack.png",
+				"selectedIconPath": "static/tabbar/controlSelected.png",
+				"text": "控制中心"
+			},
+			{
+				"pagePath": "pages/gptChat/gptChat",
+				"iconPath": "static/tabbar/gptChat_black.png",
+				"selectedIconPath": "static/tabbar/gptChat_selected.png",
+				"text": "农智问答"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"iconPath": "static/tabbar/myBlack.png",
+				"selectedIconPath": "static/tabbar/mySelected.png",
+				"text": "我的"
+			}
+		]
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path" : "pages/start/start",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"enablePullDownRefresh": false
+				
+			}
+
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "智能温室大棚",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/control/control",
+			"style": {
+				"navigationBarTitleText": "控制中心",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/indexPages/videoControl/videoControl",
+			"style": {
+				"navigationBarTitleText": "视频监控"
+			}
+
+		},
+		{
+			"path": "pages/indexPages/analysis/analysis",
+			"style": {
+				"navigationBarTitleText": "统计分析"
+			}
+
+		},
+		{
+			"path": "pages/indexPages/devices/devices",
+			"style": {
+				"navigationBarTitleText": "设备总控",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/indexPages/record/record",
+			"style": {
+				"navigationBarTitleText": "农事记录",
+				"enablePullDownRefresh": false
+				
+			}
+
+		},
+		{
+			"path": "pages/indexPages/actionSet/actionSet",
+			"style": {
+				"navigationBarTitleText": "场景设置",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/indexPages/warning/warning",
+			"style": {
+				"navigationBarTitleText": "生长预警",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/indexPages/greenHouses/greenHouses",
+			"style": {
+				"navigationBarTitleText": "温室管理",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path": "pages/indexPages/ThresholdSet/ThresholdSet",
+			"style": {
+				"navigationBarTitleText": "阈值设置",
+				"enablePullDownRefresh": true
+			}
+
+		},
+		{
+			"path": "pages/thirdPages/addTimeStop/addTimeStop",
+			"style": {
+				"navigationBarTitleText": "添加定时任务",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/thirdPages/timeSystem/timeSystem",
+			"style": {
+				"navigationBarTitleText": "定时系统",
+				"enablePullDownRefresh": false
+			}
+
+		},
+		{
+			"path" : "pages/test/test",
+			"style" : 
+			{
+				"navigationBarTitleText" : "测试组件",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/register/register",
+			"style" : 
+			{
+				"navigationBarTitleText" : "注册",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/thirdPages/addScenes/addScenes",
+			"style" : 
+			{
+				"navigationBarTitleText" : "添加场景",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/thirdPages/adboutUs/adboutUs",
+			"style" : 
+			{
+				"navigationBarTitleText" : "关于我们",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/thirdPages/warmMessage/warmMessage",
+			"style" : 
+			{
+				"navigationBarTitleText" : "预警消息",
+				"enablePullDownRefresh" : false
+				
+			}
+		},
+		{
+			"path" : "pages/thirdPages/addCropper/addCropper",
+			"style" : 
+			{
+				"navigationBarTitleText" : "添加农作物",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/thirdPages/addHusbandry/addHusbandry",
+			"style" : 
+			{
+				"navigationBarTitleText" : "添加农事记录",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/thirdPages/addFertilizer/addFertilizer",
+			"style" : 
+			{
+				"navigationBarTitleText" : "添加肥药记录",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/indexPages/recoedNoBlank/recoedNoBlank",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/indexPages/analysisUpdate/analysisUpdate",
+			"style" : 
+			{
+				"navigationBarTitleText" : "统计分析",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/thirdPages/analysisDay/analysisDay",
+			"style" : 
+			{
+				"navigationBarTitleText" : "某一天统计分析",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/indexPages/personInformation/personInformation",
+			"style" : 
+			{
+				"navigationBarTitleText" : "个人信息",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/indexPages/editPassword/editPassword",
+			"style" : 
+			{
+				"navigationBarTitleText" : "修改密码",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/thirdPages/detailMessage/detailMessage",
+			"style" : 
+			{
+				"navigationBarTitleText" : "详细消息",
+				"enablePullDownRefresh" : false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path" : "pages/gptChat/gptChat",
+			"style" : 
+			{
+				"navigationBarTitleText" : "农智问答",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/indexPages/deivecesMethod/deivecesMethod",
+			"style" : 
+			{
+				"navigationBarTitleText" : "一键控制",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/indexPages/oneClickControl/oneClickControl",
+			"style" : 
+			{
+				"navigationBarTitleText" : "一键控制",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/thirdPages/addDevandSensor/addDevandSensor",
+			"style" : 
+			{
+				"navigationBarTitleText" : "添加",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/indexPages/predict/predict",
+			"style" : 
+			{
+				"navigationBarTitleText" : "病虫害预测分析",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/indexPages/predictIndex/predictIndex",
+			"style" : 
+			{
+				"navigationBarTitleText" : "检测向导",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/thirdPages/videoBack/videoBack",
+			"style" : 
+			{
+				"navigationBarTitleText" : "录像回放",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/indexPages/predictRipe/predictRipe",
+			"style" : 
+			{
+				"navigationBarTitleText" : "生长阶段预测分析",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/indexPages/pridictWeed/pridictWeed",
+			"style" : 
+			{
+				"navigationBarTitleText" : "杂草预测分析",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/thirdPages/analysisThreeDay/analysisThreeDay",
+			"style" : 
+			{
+				"navigationBarTitleText" : "混合图",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/indexPages/smartIrrigation/smartIrrigation",
+			"style" : 
+			{
+				"navigationBarTitleText" : "水肥一体化智能灌溉",
+				"enablePullDownRefresh" : false
+			}
+		}
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

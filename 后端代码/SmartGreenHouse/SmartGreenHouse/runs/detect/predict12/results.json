@@ -1,0 +1,22 @@
+[
+    {
+        "class": "MediumRipe",
+        "confidence": 0.953207
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.946769
+    },
+    {
+        "class": "MediumRipe",
+        "confidence": 0.678864
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.625469
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.410259
+    }
+]

@@ -1,0 +1,1054 @@
+[
+    {
+        "class": "Ripe",
+        "confidence": 0.863871
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.9517
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.941514
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.311062
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.940766
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.30176
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.940942
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.250795
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.941964
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.952154
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.307086
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.949996
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.281859
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.950108
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.277709
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.93709
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.956161
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.283731
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.26449
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.944832
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.322315
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.933052
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.560326
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.338425
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.74729
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.347971
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.880319
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.647107
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.332965
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.848376
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.916817
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.43017
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.927738
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.330766
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.463214
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.293848
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.850574
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.872492
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.893987
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.789077
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.310835
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.699431
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.652158
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.938361
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.889729
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.859621
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.906361
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.861196
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.794606
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.91261
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.953413
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.934637
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.880202
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.936041
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.948079
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.948492
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.944183
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.948305
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.949591
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.944907
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.94298
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.941513
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.937123
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.954536
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.87134
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.863866
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.816365
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.289415
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.552536
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.901117
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.654847
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.344864
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.900588
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.429968
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.878326
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.572726
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.873385
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.463605
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.831046
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.634129
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.712086
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.459272
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.82332
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.410291
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.797258
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.758833
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.331261
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.806645
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.332258
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.296557
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.834571
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.465551
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.400977
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.848505
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.45812
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.302161
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.872598
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.425253
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.807929
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.586361
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.28556
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.807229
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.685701
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.29515
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.656261
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.622665
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.259649
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.64746
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.500279
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.309907
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.704946
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.514678
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.438448
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.843525
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.704059
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.521988
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.818875
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.503682
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.470156
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.841498
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.640583
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.491996
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.6929
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.596495
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.710017
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.371628
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.300715
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.847233
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.641212
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.851787
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.812821
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.809046
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.745985
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.884934
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.588336
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.843719
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.63494
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.636296
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.356354
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.855437
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.765154
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.338197
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.951923
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.584364
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.275187
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.94108
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.519188
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.332694
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.950307
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.748055
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.30657
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.950014
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.719895
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.580959
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.936188
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.646658
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.567713
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.912153
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.377212
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.922751
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.537987
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.341392
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.894764
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.648974
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.411006
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.904736
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.511782
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.500138
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.287498
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.838807
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.505675
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.307498
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.823095
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.819044
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.549142
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.370392
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.509034
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.295005
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.406558
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.277454
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.409459
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.486967
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.509921
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.844921
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.713971
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.879056
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.813276
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.740064
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.307356
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.539752
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.398364
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.603279
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.267863
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.800101
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.679603
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.400801
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.409361
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.365131
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.452893
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.445522
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.611125
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.569162
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.565391
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.554176
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.38719
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.419029
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.464146
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.318645
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.51317
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.275502
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.294024
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.252627
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.325353
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.327965
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.324355
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.448181
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.349293
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.279371
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.296005
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.353502
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.287351
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.380595
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.277929
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.280444
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.309946
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.379069
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.296603
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.367298
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.268533
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.302745
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.283353
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.398736
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.336688
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.259964
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.271752
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.253465
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.450483
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.278028
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.279371
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.316383
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.333687
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.309982
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.307321
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.287271
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.262213
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.262014
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.282524
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.331329
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.276997
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.312209
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.346242
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.348153
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.65512
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.305827
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.700533
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.399292
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.378502
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.594269
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.407095
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.492101
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.471421
+    },
+    {
+        "class": "Ripe",
+        "confidence": 0.700115
+    },
+    {
+        "class": "Unripe",
+        "confidence": 0.268704
+    }
+]

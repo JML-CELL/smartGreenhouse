@@ -1,0 +1,13 @@
+{
+	"files.associations": {
+		"*.wxss": "css",
+		"*.wxml": "html",
+		"algorithm": "cpp",
+		"cmath": "cpp",
+		"cstdint": "cpp",
+		"cinttypes": "cpp",
+		"typeinfo": "cpp",
+		"random": "cpp"
+	},
+	"cmake.sourceDirectory": "C:/Users/86159/Desktop/ESP32_Code-main/2.Code/ESP32_ONENET/ESP32_ONENET/.pio/libdeps/esp32dev/Adafruit BusIO"
+}

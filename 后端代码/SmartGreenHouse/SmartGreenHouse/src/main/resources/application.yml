@@ -1,0 +1,41 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/smart_green_house?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=GMT%2b8
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 200MB
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+    serialization:
+      write-dates-as-timestamps: false
+  mail:
+    host: smtp.qq.com
+    username: 1780016475@qq.com
+    password: dcqvxljblyfbehge
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+    default-encoding: utf-8
+mybatis-plus:
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+aliOSS-utils:
+  endpoint: https://oss-cn-hangzhou.aliyuncs.com
+  bucketName: smart-green-home
+  packageName01: image/
+  packageName02: outmodel/
